@@ -2,9 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//npm run deploy
+
 function App() {
   return (
-    <div className="App">
+    <div >
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4d9708e37fac5ed1b5f0",
-    "url": "/gprendiville/static/css/main.fc753516.chunk.css"
+    "revision": "869b4ade72bbab233af4",
+    "url": "/gprendiville/static/css/main.5fd9c915.chunk.css"
   },
   {
-    "revision": "4d9708e37fac5ed1b5f0",
-    "url": "/gprendiville/static/js/main.7a1f5601.chunk.js"
+    "revision": "869b4ade72bbab233af4",
+    "url": "/gprendiville/static/js/main.cb1f92a1.chunk.js"
   },
   {
     "revision": "66513ca7619c3d1e06b6",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/gprendiville/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "0a007c9b79996932f954c7ae84648e74",
+    "revision": "bcc200815d573a3a3ad1e8e5d2ffa681",
     "url": "/gprendiville/index.html"
   }
 ];

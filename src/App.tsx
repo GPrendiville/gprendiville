@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import 'github'
 
 //npm run deploy
 

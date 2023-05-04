@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import 'github'
 
 //npm run deploy
 
@@ -17,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
           >
-            Github
+            <img src='/github-mark.png' alt='Github'/>
           </a>
         </div>
         

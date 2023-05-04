@@ -1,16 +1,15 @@
 {
-  "main.css": "/gprendiville/static/css/main.5fd9c915.chunk.css",
-  "main.js": "/gprendiville/static/js/main.18fa71e3.chunk.js",
-  "main.js.map": "/gprendiville/static/js/main.18fa71e3.chunk.js.map",
-  "runtime~main.js": "/gprendiville/static/js/runtime~main.f097f522.js",
-  "runtime~main.js.map": "/gprendiville/static/js/runtime~main.f097f522.js.map",
-  "static/js/2.49cb00a6.chunk.js": "/gprendiville/static/js/2.49cb00a6.chunk.js",
-  "static/js/2.49cb00a6.chunk.js.map": "/gprendiville/static/js/2.49cb00a6.chunk.js.map",
-  "static/js/3.d62f7fe7.chunk.js": "/gprendiville/static/js/3.d62f7fe7.chunk.js",
-  "static/js/3.d62f7fe7.chunk.js.map": "/gprendiville/static/js/3.d62f7fe7.chunk.js.map",
+  "main.css": "/gprendiville/static/css/main.91f742c4.chunk.css",
+  "main.js": "/gprendiville/static/js/main.194a76a6.chunk.js",
+  "main.js.map": "/gprendiville/static/js/main.194a76a6.chunk.js.map",
+  "runtime~main.js": "/gprendiville/static/js/runtime~main.6318f643.js",
+  "runtime~main.js.map": "/gprendiville/static/js/runtime~main.6318f643.js.map",
+  "static/js/2.8808d590.chunk.js": "/gprendiville/static/js/2.8808d590.chunk.js",
+  "static/js/2.8808d590.chunk.js.map": "/gprendiville/static/js/2.8808d590.chunk.js.map",
+  "static/js/3.b359b5d6.chunk.js": "/gprendiville/static/js/3.b359b5d6.chunk.js",
+  "static/js/3.b359b5d6.chunk.js.map": "/gprendiville/static/js/3.b359b5d6.chunk.js.map",
   "index.html": "/gprendiville/index.html",
-  "precache-manifest.6e5a010480056a4bcbfd05d400c509cd.js": "/gprendiville/precache-manifest.6e5a010480056a4bcbfd05d400c509cd.js",
+  "precache-manifest.b1aacfd8dcaf20902e700559a6b2ed4e.js": "/gprendiville/precache-manifest.b1aacfd8dcaf20902e700559a6b2ed4e.js",
   "service-worker.js": "/gprendiville/service-worker.js",
-  "static/css/main.5fd9c915.chunk.css.map": "/gprendiville/static/css/main.5fd9c915.chunk.css.map",
-  "static/media/logo.svg": "/gprendiville/static/media/logo.06e73328.svg"
+  "static/css/main.91f742c4.chunk.css.map": "/gprendiville/static/css/main.91f742c4.chunk.css.map"
 }

@@ -11,15 +11,16 @@ function App() {
           <p className="Name">
             Griffith Prendiville
           </p>
-        </div>
-        <a
+          <a
           className="App-link"
           href="https://github.com/GPrendiville"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Github
-        </a>
+          >
+            Github
+          </a>
+        </div>
+        
       </header>
     </div>
   );

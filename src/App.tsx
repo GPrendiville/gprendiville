@@ -7,9 +7,11 @@ function App() {
   return (
     <div >
       <header className="App-header">
-        <p className="Name">
-          Griffith Prendiville
-        </p>
+        <div className="Top">
+          <p className="Name">
+            Griffith Prendiville
+          </p>
+        </div>
         <a
           className="App-link"
           href="https://github.com/GPrendiville"

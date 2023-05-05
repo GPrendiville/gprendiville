@@ -20,9 +20,6 @@ function App() {
             <img src='/github-mark.png' alt='Github'/>
           </a>
         </div>
-        <div className='Content'>
-
-        </div>
       </header>
     </div>
   );
